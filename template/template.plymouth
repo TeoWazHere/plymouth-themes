@@ -1,9 +1,9 @@
 [Plymouth Theme]
-Name=template
-Description=template
-Comment=created By Aditya Shakya (@adi1090x)
+Name=homebrew
+Description= hoebrew channel gif
+Comment=created By Teo
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/template
-ScriptFile=/usr/share/plymouth/themes/template/template.script
+ImageDir=/usr/share/plymouth/themes/homebrew
+ScriptFile=/usr/share/plymouth/themes/homebrew/homebrew.script
